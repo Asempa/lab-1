@@ -11,4 +11,7 @@ This repository contains a single file, a script for gathering the basic configu
 ## Using the file
 
 Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
+
 # Hello World
+
+This is my first commit to GitHub using VSCode.
