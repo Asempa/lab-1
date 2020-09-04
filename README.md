@@ -15,3 +15,6 @@ Please refer to your lab instructions for definitive directions. In general, clo
 # Hello World
 
 This is my first commit to GitHub using VSCode.
+
+## Hello World
+
