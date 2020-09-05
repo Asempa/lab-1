@@ -1,20 +1,8 @@
-# Kobina Asempa Takyi
-# Lab Assignment 1
-# Lab-1 Git Repository Seed
+### Kobina Asempa Takyi
 
-This file is the template for the first lab in Ashesi Web Development 2020.
+## Lab Assignment 1
 
-## Contents
+Building of my portfolio website.
 
-This repository contains a single file, a script for gathering the basic configuration of the user from bash.
-
-## Using the file
-
-Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
-
-# Hello World
-
-This is my first commit to GitHub using VSCode.
-
-## Hello World
+The final product would be hosted on GitHub using GitHub Pages.
 
